@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hongyu Xu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hongyu Xu"
 description              : &description "Ph.D. Candidate, Department of Electrical and Computer Engineering, University of Maryland. College Park"
 url                      : https://hyxu2006.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
