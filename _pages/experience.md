@@ -17,7 +17,7 @@ author_profile: true
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/parc_img.jpg?raw=true" alt="Photo" style="height: 175px;"/> 
-<b>PARC(Palo Alto Research Center)</b>. 06/2014 - 08/2016. <b>Research Intern</b>
+<b>PARC(Palo Alto Research Center)</b>. 06/2014 - 08/2014. <b>Research Intern</b>
 </p>
 
 <p align="left">
