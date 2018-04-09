@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
 Welcome to [Hongyu Xu](https://hyxu2006.github.io)'s Homepage!        
