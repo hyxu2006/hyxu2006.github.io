@@ -12,7 +12,7 @@ author_profile: true
 *			Snap Inc. 09/2017 - 12/2017. **Research Intern**
 
 <p align="center">
-* 			Snap Inc. 09/2017 - 12/2017. **Research Intern**
+Snap Inc. 09/2017 - 12/2017. <b>Research Intern</b>
 </p>
 
 <p align="center">
