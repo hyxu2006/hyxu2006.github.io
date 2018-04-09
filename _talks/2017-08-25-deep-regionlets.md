@@ -1,7 +1,7 @@
 ---
 title: "Deep Regionlets for Object Detecttion"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2017-08-25-deep-regionets
 venue: "Intern Final Presentation at Snap Research"
 date: 2017-08-25
