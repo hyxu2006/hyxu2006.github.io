@@ -22,4 +22,4 @@ Hongyu Xu is currently a Ph.D. candidate at University of Maryland, College Park
 Crystal Loss and Quality Pooling for Unconstrained Face Verification and Recognition. Available on [arXiv](https://arxiv.org/abs/1804.01159)
 * March, 2018. New preprint: Deep Regionlets for Object Detection. Available on [arXiv](https://arxiv.org/abs/1712.02408)
 * September 11 - December 15, 2017. Research Intern at Snap Research.
-* May 22 - August 25, 2017. Research Intern at Snap Research, Venice, California. I work with [Dr. Xutao Lv](http://xutaolv.com/), [Dr. Xiaoyu Wang](http://www.xiaoyumu.com/) and [Dr. Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) on generic object detection with deep learning technologies. 
+* May 22 - August 25, 2017. Research Intern at Snap Research, Venice, California. I worked with [Dr. Xutao Lv](http://xutaolv.com/), [Dr. Xiaoyu Wang](http://www.xiaoyumu.com/) and [Dr. Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) on generic object detection using deep learning technologies. 
