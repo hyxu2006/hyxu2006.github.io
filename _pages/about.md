@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
 Welcome to [Hongyu Xu](https://hyxu2006.github.io)'s Homepage!        
 
 Hongyu Xu is currently a Ph.D. candidate at University of Maryland, College Park, working with Prof. [Rama Chellappa](http://legacydirs.umiacs.umd.edu/~rama/). His research interests include pattern recognition, computer vision and machine learning. He has been working on image/video face recognition/verification, domain adaptation for object recognition, dictionary learning and sparse representation. He received his M.S. degree along the way from University of Maryland in 2016. He received his B.S. degree from [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2012.
+
+<p align="center">
+  <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
+
 
 # Recent News
 * April, 2018. New preprint: 
