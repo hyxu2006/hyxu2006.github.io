@@ -12,6 +12,10 @@ author_profile: true
 *			Snap Inc. 09/2017 - 12/2017. **Research Intern**
 
 <p align="center">
+* 			Snap Inc. 09/2017 - 12/2017. **Research Intern**
+</p>
+
+<p align="center">
   <img src="https://hyxu2006.github.io/files/snap_img.png?raw=true" alt="Photo" style="height: 200px;"/> 
 </p>
 
