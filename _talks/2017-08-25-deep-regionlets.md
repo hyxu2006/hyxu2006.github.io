@@ -1,5 +1,5 @@
 ---
-title: "Deep Regionlets for Object Detecttion"
+title: "Deep Regionlets for Object Detection"
 collection: talks
 type: "Presentation"
 permalink: /talks/2017-08-25-deep-regionets
