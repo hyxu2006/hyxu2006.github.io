@@ -25,7 +25,10 @@ author_profile: true
 <b>University of Maryland College Park</b>. 08/2012 - 2018. 
 </p>
 
-<!-- <b>Ph.D. student</b> in Department of Electrical and Computer Engineering.  -->
+<p align="left"> 
+<b>Ph.D. student</b> in Department of Electrical and Computer Engineering. 
+</p>
+
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/ustc_img.png?raw=true" alt="Photo" style="height: 175px;"/> 
