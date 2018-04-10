@@ -2,11 +2,11 @@
 title: "Deep Heterogeneous Feature Fusion for Template-Based Face Recognition"
 collection: publications
 permalink: /publications/DeepFusion
-venue: "IEEE Winter Conference on Applications of Computer Vision (WACV), 2017."
+venue: "IEEE Winter Conference on Applications of Computer Vision (WACV)"
 date: 2017-2-15
 citation: 'Navaneeth Bodla, Jingxiao Zheng, <b>Hongyu Xu</b>, Jun-Cheng Chen, Carlos Castillo and Rama Chellappa. <i>IEEE Winter Conference on Applications of Computer Vision</i>. <b>WACV 2017</b>.'
 ---
-[[ArXiv]](https://arxiv.org/pdf/1702.04471.pdf) 
+[[PDF]](https://arxiv.org/pdf/1702.04471.pdf) 
 
 
 ## Abstract
