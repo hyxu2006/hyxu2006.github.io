@@ -9,4 +9,4 @@ location: "Snap HQ, Venice, California"
 ---
 
 Intern presentation on the deep regionlets framework for object detection during research internship at Snap Research.<br>
-[[Slide]]()
+<!-- [[Slide]]() -->
