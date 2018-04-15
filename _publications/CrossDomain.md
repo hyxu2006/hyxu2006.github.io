@@ -3,7 +3,7 @@ title: "Cross-Domain Visual Recognition via Domain Adaptive Dictionary Learning"
 collection: publications
 permalink: /publications/CrossDomain
 venue: "Arxiv"
-date: 2018-3-8
+date: 2018-4-12
 citation: '<b>Hongyu Xu</b>, Jingjing Zheng, Azadeh Alavi and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Image Processing (TIP)</b>.'
 ---
 [[ArXiv]]()

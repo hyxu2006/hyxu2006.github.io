@@ -3,8 +3,8 @@ title: "Deep Regionlets for Object Detection"
 collection: publications
 permalink: /publications/DeepRegionlets
 venue: "Arxiv"
-date: 2018-3-24
-citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren, Navaneeth Bodla and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Tech Report</b>.'
+date: 2018-4-15
+citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren, Navaneeth Bodla and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Tech Report (Intern Work)</b>.'
 ---
 [[ArXiv]](https://arxiv.org/abs/1712.02408)
 
