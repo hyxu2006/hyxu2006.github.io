@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CrystalLoss
 venue: "Arxiv"
 date: 2018-4-3
-citation: 'Rajeev Ranjan, Ankan Bansal, <b>Hongyu Xu</b>, Swami Sankaranarayanan, Jun-Cheng Chen, Carlos D. Castillo and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to IEEE TPAMI</b>.'
+citation: 'Rajeev Ranjan, Ankan Bansal, <b>Hongyu Xu</b>, Swami Sankaranarayanan, Jun-Cheng Chen, Carlos D. Castillo and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</b>.'
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.01159)
 
