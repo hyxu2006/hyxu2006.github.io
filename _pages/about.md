@@ -25,6 +25,8 @@ I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://w
 * April, 2018. New preprint: 
 Cross-Domain Visual Recognition via Domain Adaptive Dictionary Learning. Available on [arXiv](https://arxiv.org/abs/1804.04687)
 * April, 2018. New preprint: 
+Thresholded Features with Sparse Support Recovery. Available on [arXiv](https://arxiv.org/abs/1804.05515)
+* April, 2018. New preprint: 
 Crystal Loss and Quality Pooling for Unconstrained Face Verification and Recognition. Available on [arXiv](https://arxiv.org/abs/1804.01159)
 * March, 2018. New preprint: Deep Regionlets for Object Detection. Available on [arXiv](https://arxiv.org/abs/1712.02408)
 * September - December, 2017. Research Intern at Snap Research. Research on generic object detection using deep learning techniques. 
