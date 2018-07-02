@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to [Hongyu Xu](https://hyxu2006.github.io)'s Homepage!        
 
-I am a Ph.D. candidate in the [Department of Electrical and Computer Engineering](http://www.ece.umd.edu/) at University of Maryland, College Park. My research advisor is [Prof. Rama Chellappa](http://legacydirs.umiacs.umd.edu/~rama/). I am also affiliated with the [University of Maryland Institute for Advanced Computer Studies (UMIACS)](http://www.umiacs.umd.edu/). 
+I am a final year Ph.D. candidate in the [Department of Electrical and Computer Engineering](http://www.ece.umd.edu/) at University of Maryland, College Park. My research advisor is [Prof. Rama Chellappa](http://legacydirs.umiacs.umd.edu/~rama/). I am also affiliated with the [University of Maryland Institute for Advanced Computer Studies (UMIACS)](http://www.umiacs.umd.edu/). 
 
 I have worked on several topics such as deep learning for generic object detection, image/video face recognition/verification, domain adaptation, dictionary learning and sparse representation. My research interests include pattern recognition, deep learning, computer vision and machine learning.
 
