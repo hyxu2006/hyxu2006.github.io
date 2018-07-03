@@ -22,6 +22,7 @@ I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://w
 
 
 # Recent News
+* July, 2018. <b>Our object detection paper "[Deep Regionlets for Object Detection](https://arxiv.org/abs/1804.04687)" accepted in ECCV 2018</b>. Congratulations to [Xutao Lv](http://xutaolv.com/), [Xiaoyu Wang](http://www.xiaoyumu.com/), [Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) and all co-authors.
 * April, 2018. New preprint: 
 Cross-Domain Visual Recognition via Domain Adaptive Dictionary Learning. Available on [arXiv](https://arxiv.org/abs/1804.04687)
 * April, 2018. New preprint: 
