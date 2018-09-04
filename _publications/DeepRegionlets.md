@@ -6,7 +6,8 @@ venue: "Arxiv"
 date: 2018-4-15
 citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren, Navaneeth Bodla and Rama Chellappa. <i>In Proceedings of European Conference on Computer Vision</i>. <b>ECCV 2018</b>.'
 ---
-[[ArXiv Version]](https://arxiv.org/abs/1712.02408)
+[[PDF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)
+[[ArXiv]](https://arxiv.org/abs/1712.02408)
 
 
 ## Abstract
