@@ -7,22 +7,27 @@ author_profile: true
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/umd_img.png?raw=true" alt="Photo" style="height: 175px;"/> 
-<b>University of Maryland College Park</b>. 08/2012 - 2018.12 (Expected) <b>Ph.D. student</b> 
+<b>University of Maryland College Park</b>. 08/2012 - 12/2018 (Expected) <b>Ph.D. student</b> 
 </p>
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/snap_img.png?raw=true" alt="Photo" style="height: 175px;"/> 
-<b>Snap Inc.</b> 09/2017 - 12/2017. <b>Research Intern</b>
+<b>Snap Research.</b> 09/2017 - 12/2017. <b>Research Intern</b>
 </p>
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/snap_img.png?raw=true" alt="Photo" style="height: 175px;"/> 
-<b>Snap Inc.</b> 05/2017 - 08/2017. <b>Research Intern</b>
+<b>Snap Research.</b> 05/2017 - 08/2017. <b>Research Intern</b>
+</p>
+
+<p align="left">
+  <img src="https://hyxu2006.github.io/files/umd_img.png?raw=true" alt="Photo" style="height: 175px;"/> 
+<b>University of Maryland College Park</b>. 08/2012 - 12/2016 <b>Master of Science</b> 
 </p>
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/parc_img.jpg?raw=true" alt="Photo" style="height: 175px;"/> 
-<b>PARC(Palo Alto Research Center)</b>. 06/2014 - 08/2014. <b>Research Intern</b>
+<b>PARC (Palo Alto Research Center)</b>. 06/2014 - 08/2014. <b>Research Intern</b>
 </p>
 
 <p align="left">
