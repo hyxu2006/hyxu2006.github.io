@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ThresholdFeature
 venue: "Arxiv"
 date: 2018-3-9
-citation: '<b>Hongyu Xu</b>*, Zhangyang Wang*, Haichuan Yang, Ding Liu and Ji Liu. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Signal Processing (TSP)</b>. (* equal contribution)'
+citation: '<b>Hongyu Xu</b>*, Zhangyang Wang*, Haichuan Yang, Ding Liu and Ji Liu. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</b>. (* equal contribution)'
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.05515)
 
