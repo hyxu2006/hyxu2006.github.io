@@ -23,14 +23,14 @@ I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://w
 
 # Recent News
 * Sep, 2018. New preprint on face detection/recognition/verification: 
-[A Fast and Accurate System for Face Detection, Recognition and Verification] (Submitted to IEEE TBIOM Journal first issue). Available on [arXiv](https://arxiv.org/abs/1809.07586)
+A Fast and Accurate System for Face Detection, Recognition and Verification (Submitted to <b>IEEE TBIOM</b> Journal first issue). Available on [arXiv](https://arxiv.org/abs/1809.07586)
 * Jul, 2018. Our object detection paper "[Deep Regionlets for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)" accepted in ECCV 2018. Congratulations to [Xutao Lv](http://xutaolv.com/), [Xiaoyu Wang](http://www.xiaoyumu.com/), [Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) and all co-authors.
 * Apr, 2018. New preprint: 
 Cross-Domain Visual Recognition via Domain Adaptive Dictionary Learning. Available on [arXiv](https://arxiv.org/abs/1804.04687)
 * Apr, 2018. New preprint: 
 Thresholded Features with Sparse Support Recovery. Available on [arXiv](https://arxiv.org/abs/1804.05515)
 * Apr, 2018. New preprint: 
-Crystal Loss and Quality Pooling for Unconstrained Face Verification and Recognition. Available on [arXiv](https://arxiv.org/abs/1804.01159)
+Crystal Loss and Quality Pooling for Unconstrained Face Verification and Recognition (Submitted to <b>IEEE TPAMI</b> Journal). Available on [arXiv](https://arxiv.org/abs/1804.01159)
 * Mar, 2018. New preprint: Deep Regionlets for Object Detection. Available on [arXiv](https://arxiv.org/abs/1712.02408)
 * Sep - Dec, 2017. Research Intern at Snap Research. Research on generic object detection using deep learning techniques. 
 * May - Aug, 2017. Research Intern at Snap Research, Venice, California. I worked with [Dr. Xutao Lv](http://xutaolv.com/), [Dr. Xiaoyu Wang](http://www.xiaoyumu.com/) and [Dr. Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) on generic object detection using deep learning techniques. 
