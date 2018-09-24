@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CrossDomain
 venue: "Arxiv"
 date: 2018-4-12
-citation: '<b>Hongyu Xu</b>, Jingjing Zheng, Azadeh Alavi and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Image Processing (TIP)</b>.'
+citation: '<b>Hongyu Xu</b>, Jingjing Zheng, Azadeh Alavi and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to Image and Vision Computing (IVC)</b>.'
 ---
 [[ArXiv]](https://arxiv.org/abs/1804.04687)
 
