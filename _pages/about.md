@@ -22,7 +22,9 @@ I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://w
 
 
 # Recent News
-* July, 2018. <b>Our object detection paper "[Deep Regionlets for Object Detection](https://arxiv.org/abs/1712.02408)" accepted in ECCV 2018</b>. Congratulations to [Xutao Lv](http://xutaolv.com/), [Xiaoyu Wang](http://www.xiaoyumu.com/), [Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) and all co-authors.
+* September, 2018.  New preprint on face detection/recognition/verification: 
+A Fast and Accurate System for Face Detection, Recognition and Verification(Submitted to IEEE TBIOM Journal first issue). Available on [arXiv](https://arxiv.org/abs/1809.07586)
+* July, 2018. Our object detection paper "[Deep Regionlets for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)" accepted in ECCV 2018. Congratulations to [Xutao Lv](http://xutaolv.com/), [Xiaoyu Wang](http://www.xiaoyumu.com/), [Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) and all co-authors.
 * April, 2018. New preprint: 
 Cross-Domain Visual Recognition via Domain Adaptive Dictionary Learning. Available on [arXiv](https://arxiv.org/abs/1804.04687)
 * April, 2018. New preprint: 
