@@ -6,8 +6,9 @@ venue: "Arxiv"
 date: 2018-11-28
 citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</b>.'
 ---
-[[Conference Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)
+
 [[ArXiv]](https://arxiv.org/abs/1811.11318)
+[[Conference Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)
 
 
 ## Abstract
