@@ -7,7 +7,7 @@ author_profile: true
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/umd_img.png?raw=true" alt="Photo" style="height: 175px;"/> 
-<b>University of Maryland College Park</b>. 08/2012 - 12/2018 (Expected) <b>Ph.D. student</b> 
+<b>University of Maryland College Park</b>. 08/2012 - Current <b>Ph.D. student</b> 
 </p>
 
 <p align="left">
