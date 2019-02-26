@@ -33,7 +33,7 @@ Cross-Domain Visual Recognition via Domain Adaptive Dictionary Learning. Availab
 * Apr, 2018. New preprint: 
 Thresholded Features with Sparse Support Recovery. Available on [arXiv](https://arxiv.org/abs/1804.05515)
 * Apr, 2018. New preprint: 
-Crystal Loss and Quality Pooling for Unconstrained Face Verification and Recognition (Submitted to <b>IEEE TPAMI</b> Journal). Available on [arXiv](https://arxiv.org/abs/1804.01159)
+Crystal Loss and Quality Pooling for Unconstrained Face Verification and Recognition. Available on [arXiv](https://arxiv.org/abs/1804.01159)
 * Mar, 2018. New preprint: Deep Regionlets for Object Detection. Available on [arXiv](https://arxiv.org/abs/1712.02408)
 * Sep - Dec, 2017. Research Intern at Snap Research. Research on generic object detection using deep learning techniques. 
 * May - Aug, 2017. Research Intern at Snap Research, Venice, California. I worked with [Dr. Xutao Lv](http://xutaolv.com/), [Dr. Xiaoyu Wang](http://www.xiaoyumu.com/) and [Dr. Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) on generic object detection using deep learning techniques. 
