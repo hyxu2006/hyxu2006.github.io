@@ -6,6 +6,7 @@ venue: "Arxiv"
 date: 2019-2-12
 citation: '<b>Hongyu Xu</b>*, Zhangyang Wang*, Haichuan Yang, Ding Liu and Ji Liu. <i>Arxiv Preprint</i>. <b>Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</b>. (* equal contribution)'
 ---
+[[PDF]](https://ieeexplore.ieee.org/document/8653305)
 [[ArXiv]](https://arxiv.org/abs/1804.05515)
 
 
