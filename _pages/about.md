@@ -22,6 +22,7 @@ I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://w
 
 
 # Recent News
+* Feb, 2019. Our paper "[A Fast and Accurate System for Face Detection, Identification, and Verification](https://arxiv.org/abs/1809.07586)" accepted in IEEE Transactions on Biometrics, Behavior, and Identity Science (<b>TBIOM</b>).
 * Feb, 2019. Our paper "[Thresholded Features with Sparse Support Recovery](https://arxiv.org/abs/1804.05515)" accepted in IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>). For the first time, we presented two theoretical recovery guarantees for the fast thresholded feature to exactly recover the nonzero support of the true sparse code, from which we also witnessed more hidden links between sparse coding and deep learning. Congratulations to [Zhangyang (Atlas) Wang​​](http://www.atlaswang.com/), [Haichuan Yang](http://www.cs.rochester.edu/u/hyang36/), [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) and [Ji Liu](http://cs.rochester.edu/u/jliu/).
 * Nov, 2018. New preprint: 
 Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection (Submitted to <b>IEEE TPAMI</b> Journal). Available on [arXiv](https://arxiv.org/abs/1811.11318)
