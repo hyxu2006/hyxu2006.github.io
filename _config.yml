@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Hongyu Xu"
   avatar           : "hongyuxu.jpg"
-  bio              : "Ph.D. Candidate, Department of Electrical and Computer Engineering, University of Maryland. College Park"
-  location         : "College Park, Maryland"
+  bio              : "Ph.D., Department of Electrical and Computer Engineering, University of Maryland. College Park"
+  location         : "Cupertino, California"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=x0onCYgAAAAJ&hl=en"
   email            : "hyxu@umd.edu"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hongyu-xu-95a6a35a/"
   orcid            : 
   pinterest        :
   soundcloud       :

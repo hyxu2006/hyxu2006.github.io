@@ -10,11 +10,7 @@ redirect_from:
 
 Welcome to [Hongyu Xu](https://hyxu2006.github.io)'s Homepage!        
 
-I am a final year Ph.D. candidate in the [Department of Electrical and Computer Engineering](http://www.ece.umd.edu/) at University of Maryland, College Park. My research advisor is [Prof. Rama Chellappa](http://legacydirs.umiacs.umd.edu/~rama/). I am also affiliated with the [University of Maryland Institute for Advanced Computer Studies (UMIACS)](http://www.umiacs.umd.edu/). 
-
-I have worked on several topics such as deep learning for generic object detection, image/video face recognition/verification, domain adaptation, dictionary learning and sparse representation. My research interests include pattern recognition, deep learning, computer vision and machine learning.
-
-I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://www.parc.com/) and two at [Snap Research](https://www.snap.com/en-US/). I received my M.S. degree along the way from University of Maryland in 2016 and B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2012.
+I obtained my Ph.D. from University of Maryland, College Park and was advised by [Prof. Rama Chellappa](http://legacydirs.umiacs.umd.edu/~rama/).  Over my Ph.D. years, I have worked on a variety of topics such as deep learning for generic object detection, image/video face recognition/verification, domain adaptation, dictionary learning and sparse representation. I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://www.parc.com/) and two at [Snap Research](https://www.snap.com/en-US/). I received my M.S. degree along the way from University of Maryland in 2017 and B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2012.
 
 <p align="center">
   <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 750px;"/> 
