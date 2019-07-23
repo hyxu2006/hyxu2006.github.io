@@ -1,5 +1,5 @@
 ---
-title: "A Fast and Accurate System for Face Detection, Identification, and Verification"
+title: "Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach"
 collection: publications
 permalink: /publications/DeepNuisance
 venue: "Arxiv"
