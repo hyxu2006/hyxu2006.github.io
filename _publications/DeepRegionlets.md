@@ -2,8 +2,8 @@
 title: "Deep Regionlets for Object Detection"
 collection: publications
 permalink: /publications/DeepRegionlets
-venue: "Arxiv"
-date: 2018-4-15
+venue: "In Proceedings of European Conference on Computer Vision"
+date: 2018-10-6
 citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren, Navaneeth Bodla and Rama Chellappa. <i>In Proceedings of European Conference on Computer Vision</i>. <b>ECCV 2018</b>.'
 ---
 [[PDF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)

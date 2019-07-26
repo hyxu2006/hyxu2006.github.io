@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/DeepNuisance
 venue: "Arxiv"
 date: 2019-7-22
-citation: 'Zhenyu Wu, Karthik Suresh, Priya Narayanan, <b>Hongyu Xu</b>, Heesung Kwon and Zhangyang Wang. <i>Arxiv Preprint</i>. <b>To apprea in International Conference on Computer Vision (ICCV)</b>.'
+citation: 'Zhenyu Wu, Karthik Suresh, Priya Narayanan, <b>Hongyu Xu</b>, Heesung Kwon and Zhangyang Wang. <i>Arxiv Preprint</i>. <b>To appear in International Conference on Computer Vision (ICCV)</b>.'
 ---
 [[ArXiv]]
 

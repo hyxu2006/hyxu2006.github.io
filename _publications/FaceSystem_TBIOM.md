@@ -2,9 +2,9 @@
 title: "A Fast and Accurate System for Face Detection, Identification, and Verification"
 collection: publications
 permalink: /publications/FaceSystem_TBIOM
-venue: "Arxiv"
-date: 2019-3-20
-citation: 'Rajeev Ranjan, Ankan Bansal, Jingxiao Zheng, <b>Hongyu Xu</b>, Joshua Gleason, Boyu Lu, Anirudh Nanduri, Jun-Cheng Chen, Carlos D. Castillo and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Accepted by IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)</b>.'
+venue: "IEEE Transactions on Biometrics, Behavior, and Identity Science"
+date: 2019-4-2
+citation: 'Rajeev Ranjan, Ankan Bansal, Jingxiao Zheng, <b>Hongyu Xu</b>, Joshua Gleason, Boyu Lu, Anirudh Nanduri, Jun-Cheng Chen, Carlos D. Castillo and Rama Chellappa. <i>Arxiv Preprint</i>. <b>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)</b>.'
 ---
 [[PDF]](https://ieeexplore.ieee.org/document/8680708)
 [[ArXiv]](https://arxiv.org/abs/1809.07586)
