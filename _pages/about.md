@@ -13,7 +13,7 @@ Welcome to [Hongyu Xu](https://hyxu2006.github.io)'s Homepage!
 I obtained my Ph.D. from University of Maryland, College Park and was advised by [Prof. Rama Chellappa](http://legacydirs.umiacs.umd.edu/~rama/).  Over my Ph.D. years, I have worked on a variety of topics such as deep learning for generic object detection, image/video face recognition/verification, domain adaptation, dictionary learning and sparse representation. I have done one internship at [PARC-Xerox (Palo Alto Research Center)](https://www.parc.com/) and two at [Snap Research](https://www.snap.com/en-US/). I received my M.S. degree along the way from University of Maryland in 2017 and B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2012.
 
 <p align="center">
-  <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 750px;"/> 
+  <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
 

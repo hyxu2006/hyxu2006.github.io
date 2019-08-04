@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <p align="left">
+  <img src="https://hyxu2006.github.io/files/apple_img.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Ph.D.</b>, 2019, Computer Vision/Machine Learning, Apple Inc.
+</p>
+
+<p align="left">
   <img src="https://hyxu2006.github.io/files/umd_img.png?raw=true" alt="Photo" style="height: 150px;"/> 
 <b>Ph.D.</b>, 2019, University of Maryland College Park.
 </p>
