@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="left">
-  <img src="https://hyxu2006.github.io/files/apple_img.png?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://hyxu2006.github.io/files/apple_img.jpeg?raw=true" alt="Photo" style="height: 150px;"/> 
 <b>Ph.D.</b>, 2019, Computer Vision/Machine Learning, Apple Inc.
 </p>
 
