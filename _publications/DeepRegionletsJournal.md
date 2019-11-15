@@ -3,7 +3,7 @@ title: "Deep Regionlets: Blended Representation and Deep Learning for Generic Ob
 collection: publications
 permalink: /publications/DeepRegionletsJournal
 venue: "Arxiv"
-date: 2018-11-28
+date: 2019-11-4
 citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</b>.'
 ---
 
