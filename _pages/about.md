@@ -12,11 +12,6 @@ Welcome to [Hongyu Xu](https://hyxu2006.github.io)'s Homepage!
 
 I am a senior machine learning/computer vision engineer at Apple Inc., Cupertino, CA. I obtained my Ph.D. from University of Maryland, College Park and was advised by [Prof. Rama Chellappa](http://legacydirs.umiacs.umd.edu/~rama/).  Over my Ph.D. years, I have worked on a variety of topics such as deep learning for generic object detection, image/video face recognition/verification, domain adaptation, dictionary learning and sparse representation. I did one internship at [PARC-Xerox (Palo Alto Research Center)](https://www.parc.com/) and two at [Snap Research](https://www.snap.com/en-US/). I received my M.S. degree from University of Maryland and B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
-<p align="center">
-  <img src="https://hyxu2006.github.io/files/hongyuxu_img.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
-</p>
-
-
 # Recent News
 * Nov, 2019. Our paper "[Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection](https://arxiv.org/abs/1811.11318)" accepted in IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>). Congratulations to [Xutao Lv](http://xutaolv.com/), [Xiaoyu Wang](http://www.xiaoyumu.com/), [Zhou Ren](http://web.cs.ucla.edu/~zhou.ren/) and all co-authors. 
 * Jul, 2019. I joined Apple Inc. as a senior machine learning/computer vision engineer.
