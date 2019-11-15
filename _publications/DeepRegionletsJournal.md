@@ -2,9 +2,9 @@
 title: "Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection"
 collection: publications
 permalink: /publications/DeepRegionletsJournal
-venue: "Arxiv"
+venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
 date: 2019-11-4
-citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren and Rama Chellappa. <i>Arxiv Preprint</i>. <b>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</b>.'
+citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren and Rama Chellappa. <i>Arxiv Preprint</i>. <b>To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</b>.'
 ---
 
 [[ArXiv]](https://arxiv.org/abs/1811.11318)
