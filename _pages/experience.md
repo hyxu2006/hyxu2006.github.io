@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="left">
-  <img src="https://hyxu2006.github.io/files/RoomPlan_Enhancement2023.jpg?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://hyxu2006.github.io/files/RoomPlan_Enhancement2023.png?raw=true" alt="Photo" style="height: 150px;"/> 
 <b>RoomPlan Enhancement</b>, Apple Inc.
 </p>
 
