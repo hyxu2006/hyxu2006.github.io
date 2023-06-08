@@ -11,7 +11,7 @@ author_profile: true
 </p>
 
 <p align="left">
-  <img src="https://hyxu2006.github.io/files/apple_vision_pro.jpg?raw=true" alt="Photo" style="height: 150px;"/> 
+  <img src="https://hyxu2006.github.io/files/apple_vision_pro.png?raw=true" alt="Photo" style="height: 150px;"/> 
 <b>Vision Pro</b>, Apple Inc.
 </p>
 
@@ -22,7 +22,7 @@ author_profile: true
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/apple_img.png?raw=true" alt="Photo" style="height: 150px;"/> 
-<b>Senior Computer Vision/Machine Learning Engineer</b>, 2019, Apple Inc.
+<b>Senior Computer Vision/Machine Learning Engineer</b>, Apple Inc.
 </p>
 
 <p align="left">
