@@ -4,9 +4,10 @@ collection: publications
 permalink: /publications/DeepRegionletsJournal
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
 date: 2019-11-4
-citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren and Rama Chellappa. <i>Arxiv Preprint</i>. <b>To appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</b>.'
+citation: '<b>Hongyu Xu</b>, Xutao Lv, Xiaoyu Wang, Zhou Ren and Rama Chellappa. <i>Arxiv Preprint</i>. <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</b>.'
 ---
 
+[[TPAMI]](https://www.computer.org/csdl/journal/tp/2021/06/08924653/1fvZgYiEEPC)
 [[ArXiv]](https://arxiv.org/abs/1811.11318)
 [[Conference Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)
 
