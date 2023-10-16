@@ -3,7 +3,7 @@ title: "RoomDreamer: Text-Driven 3D Indoor Scene Synthesis with Coherent Geometr
 collection: publications
 permalink: /publications/RoomDreamer
 venue: "ACM Multimedia"
-date: 2023-10-28
+date: 2023-08-01
 citation: 'Liangchen Song, Liangliang Cao, <b>Hongyu Xu</b>, Kai Kang, Feng Tang, Junsong Yuan, Yang Zhao. <i>In the Association for Computing Machinery annual conference on multimedia</i>. <b>ACM Multimedia 2023</b>.'
 ---
 [[ArXiv]](https://arxiv.org/abs/2305.11337)
