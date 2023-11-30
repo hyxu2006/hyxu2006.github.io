@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a senior machine learning/computer vision engineer working on Apple [RoomPlan/RoomPlan Enhancement](https://developer.apple.com/videos/play/wwdc2023/10192/) and [Vision Pro](https://www.apple.com/apple-vision-pro/), from Video Engineering Group, Apple Inc. RoomPlan is a new Swift API, first released in [WWDC22](https://developer.apple.com/augmented-reality/roomplan/) that uses the camera and LiDAR Scanner on iPhone and iPad to create a 3D floor plan of a room. And in WWDC23, we enable RoomPlan with MultiRoom support and enhancements to room representation. 
 
-I am a experienced researcher with expertise in spatial computing, scene understanding and generative AI, with a variety of experiences on perception, videos, cameras, 3D vision and 3D content generation. At Apple, I work closely with AIML for the research project. Previous, I worked at Snap Research and Palo Alto Research Center. 
+I am an experienced researcher with a variety of expertise in developing and delivering algorithm in generative AI, spatial computing, scene understanding and multimodal, with publications on 3D/2D generation, perception, videos, cameras, 3D vision and content generation. At Apple, I work closely with AIML for the research project. Previous, I worked at Snap Research and Palo Alto Research Center. 
 
 I received my Ph.D. from University of Maryland, College Park and was advised by [Prof. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/). I received my M.S. degree from University of Maryland and B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/).
 
