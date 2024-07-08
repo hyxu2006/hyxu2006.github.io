@@ -4,6 +4,15 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+<p align="left">
+  <img src="https://hyxu2006.github.io/files/Meta_log.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Research Scientist</b>, Meta.
+</p>
+
+<p align="left">
+  <img src="https://hyxu2006.github.io/files/Reality_Labs_logo.png?raw=true" alt="Photo" style="height: 150px;"/> 
+<b>Reality Lab</b>, Meta.
+</p>
 
 <p align="left">
   <img src="https://hyxu2006.github.io/files/RoomPlan_Enhancement2023.png?raw=true" alt="Photo" style="height: 150px;"/> 
