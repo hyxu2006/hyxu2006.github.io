@@ -3,7 +3,7 @@ title: "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Sec
 collection: publications
 permalink: /publications/MVDUSt3R
 venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition"
-date: 2025-06-11
+date: 2025-02-28
 citation: 'Zhenggang Tang, Yuchen Fan, Dilin Wang, <b>Hongyu Xu</b>, Rakesh Ranjan, Alexander Schwing, Zhicheng Yan. <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2025</b>.'
 ---
 [[Paper]](https://arxiv.org/abs/2412.06974)
