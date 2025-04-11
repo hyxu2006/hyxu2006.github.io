@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MVDUStThreeR
 venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 date: 2025-02-28
-citation: 'Zhenggang Tang, Yuchen Fan, Dilin Wang, <b>Hongyu Xu</b>, Rakesh Ranjan, Alexander Schwing, Zhicheng Yan. <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2025</b>.'
+citation: 'Zhenggang Tang, Yuchen Fan, Dilin Wang, <b>Hongyu Xu</b>, Rakesh Ranjan, Alexander Schwing, Zhicheng Yan. <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2025</b>. <b> <span style="color:red">Oral Presentation</span> </b>'
 ---
 [[Paper]](https://arxiv.org/abs/2412.06974)
 [[Video Results]](https://www.youtube.com/watch?v=LBvnuKQ8Rso)
