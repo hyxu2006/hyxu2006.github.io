@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at CoreAI, [Meta Reality Labs](https://about.meta.com/realitylabs/?utm_source=about.facebook.com&utm_medium=redirect). My work focuses on developing advanced on-device solutions to enhance the perception stack for Meta's MR/VR product lines. I also conduct fundamental research on 3D reconstruction and generative AI. 
+I am a Research Scientist at CoreAI, [Meta Reality Labs](https://about.meta.com/realitylabs/?utm_source=about.facebook.com&utm_medium=redirect). My work focuses on developing advanced on-device solutions to enhance the perception stack for Meta's MR/VR product lines. I also conduct fundamental research on 3D reconstruction and generative AI, and 3D LLM related topic. 
 
 Before joining Meta Reality Labs, I was a technical lead and senior machine learning/computer vision engineer with the Video Engineering Group at Apple Inc. I have lead the algorithm development and delivered the shipments of multiple groundbreaking products, includes [Room Tracking](https://developer.apple.com/videos/play/wwdc2024/10100/?time=150) on VisionPro, [RoomPlan Enhancement](https://developer.apple.com/videos/play/wwdc2023/10192/) and [RoomPlan](https://developer.apple.com/augmented-reality/roomplan/). Additionally, I collaborated with Apple AIML on 3D Scene Style Generation, where we pioneered [RoomDreamer](https://machinelearning.apple.com/research/roomdreamer), the first paper to enable text-driven 3D indoor scene synthesis with coherent geometry and texture.
 
 I received my Ph.D. and M.S. degree from University of Maryland, College Park, where I was advised by [Prof. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/). I completed my B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/). Additionally, I completed internships at Snap Research and the Palo Alto Research Center. 
 
 #  Highlights
+
+* Jun, 2025. 🚀 **VLM-3R is online!** Check out our [**Project Website**](https://vlm-3r.github.io/), read the [**arXiv Paper**](https://arxiv.org/abs/2505.20279), and explore the [**Code**](https://github.com/VITA-Group/VLM-3R). **VLM-3R**, a Vision-Language Model designed for direct, end-to-end spatial and temporal reasoning from monocular video—no external sensors required. It seamlessly fuses 3D spatial context with language understanding, unlocking a new frontier in visual-spatial intelligence.
 
 * Mar, 2025, MV-DUSt3R+ is accepted as an **Oral** at CVPR 2025. Check our [**Demo**](https://www.youtube.com/watch?v=LBvnuKQ8Rso) and [**Project**](https://mv-dust3rp.github.io/). Congratulations to [Zhenggang Tang](https://recordmp3.github.io/), [Yuchen Fan](https://ychfan.github.io/), [Dilin Wang](https://wdilin.github.io/), Rakesh Ranjan, [Alexander Schwing](https://www.alexander-schwing.de/) and [Zhicheng Yan](https://sites.google.com/view/zhicheng-yan)
 
