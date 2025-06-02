@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at CoreAI, [Meta Reality Labs](https://about.meta.com/realitylabs/?utm_source=about.facebook.com&utm_medium=redirect). My work focuses on developing advanced on-device solutions to enhance the perception stack for Meta's MR/VR product lines. I also conduct fundamental research on 3D reconstruction and generative AI, and 3D LLM related topic. 
+I am a Research Scientist at CoreAI, [Meta Reality Labs](https://about.meta.com/realitylabs/?utm_source=about.facebook.com&utm_medium=redirect), where I develop advanced on-device solutions to strengthen the perception stack for Meta’s MR/VR product lines. My research spans 3D reconstruction, generative AI, and 3D Vision-Language Models (3D VLMs), with a focus on bridging spatial understanding and multimodal intelligence.
 
 Before joining Meta Reality Labs, I was a technical lead and senior machine learning/computer vision engineer with the Video Engineering Group at Apple Inc. I have lead the algorithm development and delivered the shipments of multiple groundbreaking products, includes [Room Tracking](https://developer.apple.com/videos/play/wwdc2024/10100/?time=150) on VisionPro, [RoomPlan Enhancement](https://developer.apple.com/videos/play/wwdc2023/10192/) and [RoomPlan](https://developer.apple.com/augmented-reality/roomplan/). Additionally, I collaborated with Apple AIML on 3D Scene Style Generation, where we pioneered [RoomDreamer](https://machinelearning.apple.com/research/roomdreamer), the first paper to enable text-driven 3D indoor scene synthesis with coherent geometry and texture.
 
