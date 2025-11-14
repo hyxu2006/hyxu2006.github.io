@@ -16,7 +16,9 @@ I received my Ph.D. and M.S. degree from University of Maryland, College Park, w
 
 #  Highlights
 
-* Sep, 2025. One paper is accepted to NeurIPS 2025 — stay tuned for more details!
+* Nov, 2025. We’re grateful to receive the **Best Paper Award** from the ACM MM 2025 Multimodal Foundation Models for Spatial Intelligence Workshop. Congrats to [Zhiwen](https://zhiwenfan.github.io/) for leading the work, and thanks to all collaborators. [**📦 GitHub**](https://vlm-3r.github.io) and [**📄 Paper**](https://arxiv.org/pdf/2412.06974)
+
+* Nov, 2025, **DynamicVerse**: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds is accepted to NeurIPS 2025. [**📦 GitHub**]( https://dynamic-verse.github.io/)
 
 * Jun, 2025. 🚀 **VLM-3R is online!** Check out our [**Project Website**](https://vlm-3r.github.io/), read the [**arXiv Paper**](https://arxiv.org/abs/2505.20279), and explore the [**Code**](https://github.com/VITA-Group/VLM-3R). **VLM-3R**, a Vision-Language Model designed for direct, end-to-end spatial and temporal reasoning from monocular video—no external sensors required. It seamlessly fuses 3D spatial context with language understanding, unlocking a new frontier in visual-spatial intelligence.
 
