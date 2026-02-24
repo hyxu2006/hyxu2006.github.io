@@ -18,22 +18,19 @@ I received my Ph.D. and M.S. degree from University of Maryland, College Park, w
 #  Highlights
 
 * **Feb, 2026.** 🚀✨ Three papers — **1) VideoAutoThink**, **2) VLM-3R**, and **3) MoS (Mixture of States)** — have been accepted to **CVPR 2026**! Huge thanks and congratulations to all co-authors and collaborators 🙌🎉
-
   * 🧠🎬 [**VideoAutoThink: Video Auto Reasoning via Thinking Once, Answering Twice**](https://arxiv.org/pdf/2601.05175)  
     An adaptive video reasoning framework that challenges unconditional chain-of-thought by adopting a *thinking-once, answering-twice* paradigm, enabling confidence-based reasoning activation for improved accuracy and efficiency.  
     📄 **Paper** [[arXiv]](https://arxiv.org/abs/2601.05175) · 📦 **GitHub** [[Code]](https://ivul-kaust.github.io/projects/videoauto-r1/) · 🤗 **Model** [[Hugging Face]](https://huggingface.co/collections/IVUL-KAUST/videoauto-r1)
-
   * 🧭📐 [**VLM-3R: Instruction-Aligned 3D Reconstruction and Reasoning**](https://arxiv.org/pdf/2412.06974)  
     A spatial vision-language model aligning natural language instructions with 3D reasoning from monocular video.  
     💻 **GitHub** [[Code]](https://github.com/VITA-Group/VLM-3R) · 📦 **Project Page** [[Link]](https://vlm-3r.github.io)
-
   * 🎨⚡ [**Mixture of States: Routing Token-Level Dynamics for Multimodal Generation**](https://arxiv.org/pdf/2511.12207)  
     A dynamic token-wise routing mechanism for multimodal diffusion models, enabling adaptive layer selection and input-dependent text–vision alignment for scalable generation and editing.  
     📄 **Paper** [[arXiv]](https://arxiv.org/pdf/2511.12207)
 
 * **Jan, 2026.** **VideoAuto-R1** is now online — try our 🤗 **Demo** [[Hugging Face]](https://huggingface.co/spaces/sming256/VideoAuto-R1_Demo). 📦 **GitHub** [[Code]](https://ivul-kaust.github.io/projects/videoauto-r1/) · **Model** [[Hugging Face]](https://huggingface.co/collections/IVUL-KAUST/videoauto-r1)
 
-* Dec, 2025. **MoS (Mixture of States)** is now online. Check out our [[Paper]](https://arxiv.org/pdf/2511.12207). We introduce **MoS**, a dynamic multimodal fusion method that allows adaptive layer selection, input-dependent conditioning, and token-specific mixtures of textual hidden states for flexible modality alignment. Congrats to [Haozhe Liu](https://haozheliu-st.github.io/) and [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) for leading the work.
+* Dec, 2025. **MoS (Mixture of States)** is now online. Check out our [[Paper]](https://arxiv.org/pdf/2511.12207). Congrats to [Haozhe Liu](https://haozheliu-st.github.io/) and [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) for leading the work.
 
 * Nov, 2025. We’re grateful to receive the **Best Paper Award** from the ACM MM 2025 Multimodal Foundation Models for Spatial Intelligence Workshop. Congrats to [Zhiwen](https://zhiwenfan.github.io/) for leading the work, and thanks to all collaborators. [**📦 GitHub**](https://vlm-3r.github.io) and [**📄 Paper**](https://arxiv.org/pdf/2412.06974)
 
