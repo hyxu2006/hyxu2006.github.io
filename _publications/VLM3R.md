@@ -2,13 +2,13 @@
 title: "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction"
 collection: publications
 permalink: /publications/VLM3R
-venue: "arXiv Preprint"
-date: 2025-05-28
+venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+date: 2026-02-23
 citation: 'Zhiwen Fan, Jian Zhang, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Dilin Wang, Zhicheng Yan, <b>Hongyu Xu</b>, Justin Theiss, Tianlong Chen, Jiachen Li, Zhengzhong Tu, Zhangyang Wang, Rakesh Ranjan. <i>arXiv preprint</i>, 2025.'
 ---
 
 [[Project Website]](https://vlm-3r.github.io)  
-[[arXiv Paper]](https://arxiv.org/abs/2505.20279)  
+[[Paper]](https://arxiv.org/abs/2505.20279)  
 [[Code Released!]](https://github.com/VITA-Group/VLM-3R)
 
 ## Abstract
