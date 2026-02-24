@@ -36,7 +36,7 @@ I received my Ph.D. and M.S. degree from University of Maryland, College Park, w
 
 * Nov, 2025, **DynamicVerse**: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds is accepted to NeurIPS 2025. [**📦 GitHub**]( https://dynamic-verse.github.io/)
 
-* Jun, 2025. 🚀 **VLM-3R is online!** Check out our [**Project Website**](https://vlm-3r.github.io/), read the [**arXiv Paper**](https://arxiv.org/abs/2505.20279), and explore the [**Code**](https://github.com/VITA-Group/VLM-3R). **VLM-3R**, a Vision-Language Model designed for direct, end-to-end spatial and temporal reasoning from monocular video—no external sensors required. It seamlessly fuses 3D spatial context with language understanding, unlocking a new frontier in visual-spatial intelligence.
+* Jun, 2025. 🚀 **VLM-3R is online!** Check out our [**Project Website**](https://vlm-3r.github.io/), read the [**arXiv Paper**](https://arxiv.org/abs/2505.20279), and explore the [**Code**](https://github.com/VITA-Group/VLM-3R). 
 
 * Mar, 2025, MV-DUSt3R+ is accepted as an **Oral** at CVPR 2025. Check our [**Demo**](https://www.youtube.com/watch?v=LBvnuKQ8Rso) and [**Project**](https://mv-dust3rp.github.io/). Congratulations to [Zhenggang Tang](https://recordmp3.github.io/), [Yuchen Fan](https://ychfan.github.io/), [Dilin Wang](https://wdilin.github.io/), Rakesh Ranjan, [Alexander Schwing](https://www.alexander-schwing.de/) and [Zhicheng Yan](https://sites.google.com/view/zhicheng-yan)
 
