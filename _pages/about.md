@@ -8,15 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at CoreAI, [Meta Reality Labs](https://about.meta.com/realitylabs/?utm_source=about.facebook.com&utm_medium=redirect), where I develop advanced on-device solutions to strengthen the perception stack for Meta’s MR/VR product lines. My research spans 3D reconstruction, generative AI, and 3D Vision-Language Models (3D VLMs), with a focus on bridging spatial understanding and multimodal intelligence.
+I am a Research Scientist at Core AI, [Meta Reality Labs](https://about.meta.com/realitylabs/?utm_source=about.facebook.com&utm_medium=redirect)
+, where I build multimodal spatial vision systems for scalable video and world understanding. My research focuses on developing spatial intelligence models that integrate vision, language, motion, and geometry to enable robust perception, reasoning, and generation across modalities. Representative work includes [VideoAutoThink](https://arxiv.org/abs/2601.05175) (CVPR 2026), [VLM-3R](https://arxiv.org/pdf/2412.06974) (CVPR 2026 and Best Workshop Paper at ACM Multimedia 2025), and [MV-DUSt3R+]((https://github.com/facebookresearch/mvdust3r)) (CVPR 2025 Oral). In addition to research, I work on the on-device perception stack powering Meta Quest experiences, including semantic segmentation and real-time MR/VR spatial understanding. 
 
 Before joining Meta Reality Labs, I was a technical lead and senior machine learning/computer vision engineer with the Video Engineering Group at Apple Inc. I have lead the algorithm development and delivered the shipments of multiple groundbreaking products, includes [Room Tracking](https://developer.apple.com/videos/play/wwdc2024/10100/?time=150) on VisionPro, [RoomPlan Enhancement](https://developer.apple.com/videos/play/wwdc2023/10192/) and [RoomPlan](https://developer.apple.com/augmented-reality/roomplan/). Additionally, I collaborated with Apple AIML on 3D Scene Style Generation, where we pioneered [RoomDreamer](https://machinelearning.apple.com/research/roomdreamer), the first paper to enable text-driven 3D indoor scene synthesis with coherent geometry and texture.
-****
-I received my Ph.D. and M.S. degree from University of Maryland, College Park, where I was advised by [Prof. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/). I completed my B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/). Additionally, I completed internships at Snap Research and the Palo Alto Research Center. 
+
+I received my Ph.D. and M.S. degree from University of Maryland, College Park, where I was advised by [Prof. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/). I completed my B.S. degree in Electrical Engineering and Information Science from [University of Science and Technology of China](http://en.ustc.edu.cn/). Additionally, I completed internships at Snap Research and the Palo Alto Research Center.
 
 #  Highlights
 
-* **Jan, 2026.** **VideoAuto-R1** is now online — try our 🤗 **Demo** [[Hugging Face]](https://huggingface.co/spaces/sming256/VideoAuto-R1_Demo). We introduce **VideoAuto-R1**, a video understanding framework that challenges step-by-step chain-of-thought reasoning by adopting a “thinking once, answering twice” strategy, enabling the model to decide when deeper reasoning is actually needed. This approach learns to allocate cognitive effort adaptively across video understanding tasks. 📄 **Paper** [[arXiv]](https://arxiv.org/abs/2601.05175) · 📦 **GitHub** [[Code]](https://ivul-kaust.github.io/projects/videoauto-r1/) · 🤗 **Model** [[Hugging Face]](https://huggingface.co/collections/IVUL-KAUST/videoauto-r1)
+* **Feb, 2026.** 🚀✨ Three papers — **1) VideoAutoThink**, **2) VLM-3R**, and **3) MoS (Mixture of States)** — have been accepted to **CVPR 2026**! Huge thanks and congratulations to all co-authors and collaborators 🙌🎉
+
+  * 🧠🎬 [**VideoAutoThink: Video Auto Reasoning via Thinking Once, Answering Twice**](https://arxiv.org/pdf/2601.05175)  
+    An adaptive video reasoning framework that challenges unconditional chain-of-thought by adopting a *thinking-once, answering-twice* paradigm, enabling confidence-based reasoning activation for improved accuracy and efficiency.  
+    📄 **Paper** [[arXiv]](https://arxiv.org/abs/2601.05175) · 📦 **GitHub** [[Code]](https://ivul-kaust.github.io/projects/videoauto-r1/) · 🤗 **Model** [[Hugging Face]](https://huggingface.co/collections/IVUL-KAUST/videoauto-r1)
+
+  * 🧭📐 [**VLM-3R: Instruction-Aligned 3D Reconstruction and Reasoning**](https://arxiv.org/pdf/2412.06974)  
+    A spatial vision-language model aligning natural language instructions with 3D reasoning from monocular video.  
+    💻 **GitHub** [[Code]](https://github.com/VITA-Group/VLM-3R) · 📦 **Project Page** [[Link]](https://vlm-3r.github.io)
+
+  * 🎨⚡ [**Mixture of States: Routing Token-Level Dynamics for Multimodal Generation**](https://arxiv.org/pdf/2511.12207)  
+    A dynamic token-wise routing mechanism for multimodal diffusion models, enabling adaptive layer selection and input-dependent text–vision alignment for scalable generation and editing.  
+    📄 **Paper** [[arXiv]](https://arxiv.org/pdf/2511.12207)
+
+* **Jan, 2026.** **VideoAuto-R1** is now online — try our 🤗 **Demo** [[Hugging Face]](https://huggingface.co/spaces/sming256/VideoAuto-R1_Demo). 📦 **GitHub** [[Code]](https://ivul-kaust.github.io/projects/videoauto-r1/) · **Model** [[Hugging Face]](https://huggingface.co/collections/IVUL-KAUST/videoauto-r1)
 
 * Dec, 2025. **MoS (Mixture of States)** is now online. Check out our [[Paper]](https://arxiv.org/pdf/2511.12207). We introduce **MoS**, a dynamic multimodal fusion method that allows adaptive layer selection, input-dependent conditioning, and token-specific mixtures of textual hidden states for flexible modality alignment. Congrats to [Haozhe Liu](https://haozheliu-st.github.io/) and [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) for leading the work.
 
