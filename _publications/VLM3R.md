@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/VLM3R
 venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 date: 2026-02-23
-citation: 'Zhiwen Fan, Jian Zhang, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Dilin Wang, Zhicheng Yan, <b>Hongyu Xu</b>, Justin Theiss, Tianlong Chen, Jiachen Li, Zhengzhong Tu, Zhangyang Wang, Rakesh Ranjan. <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2025</b>. <b> <span style="color:red">Oral Presentation</span> </b>'
+citation: 'Zhiwen Fan, Jian Zhang, Renjie Li, Junge Zhang, Runjin Chen, Hezhen Hu, Kevin Wang, Huaizhi Qu, Dilin Wang, Zhicheng Yan, <b>Hongyu Xu</b>, Justin Theiss, Tianlong Chen, Jiachen Li, Zhengzhong Tu, Zhangyang Wang, Rakesh Ranjan. <i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2026</b>'
 ---
 
 [[Project Website]](https://vlm-3r.github.io)  
