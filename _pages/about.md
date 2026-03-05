@@ -21,7 +21,7 @@ I received my Ph.D. and M.S. degree from University of Maryland, College Park, w
   * 🧠🎬 [**VideoAutoThink: Video Auto Reasoning via Thinking Once, Answering Twice**](https://arxiv.org/pdf/2601.05175)  
     An adaptive video reasoning framework that challenges unconditional chain-of-thought by adopting a *thinking-once, answering-twice* paradigm, enabling confidence-based reasoning activation for improved accuracy and efficiency.  
     📄 **Paper** [[arXiv]](https://arxiv.org/abs/2601.05175) · 📦 **GitHub** [[Code]](https://ivul-kaust.github.io/projects/videoauto-r1/) · 🤗 **Model** [[Hugging Face]](https://huggingface.co/collections/IVUL-KAUST/videoauto-r1)
-  * 🧭📐 [**VLM-3R: Instruction-Aligned 3D Reconstruction and Reasoning**](https://arxiv.org/pdf/2412.06974)  
+  * 🧭📐 [**VLM-3R: Instruction-Aligned 3D Reconstruction and Reasoning**](https://arxiv.org/pdf/2505.20279)  
     A spatial vision-language model aligning natural language instructions with 3D reasoning from monocular video.  
     💻 **GitHub** [[Code]](https://github.com/VITA-Group/VLM-3R) · 📦 **Project Page** [[Link]](https://vlm-3r.github.io)
   * 🎨⚡ [**Mixture of States: Routing Token-Level Dynamics for Multimodal Generation**](https://arxiv.org/pdf/2511.12207)  
